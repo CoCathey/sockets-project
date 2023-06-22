@@ -1,0 +1,8 @@
+# Compile Script 
+# Creighton Cathey 
+# ccathe4
+# cs3304ao 
+
+
+#!/bin/bash
+gcc -o sockets sockets.c
